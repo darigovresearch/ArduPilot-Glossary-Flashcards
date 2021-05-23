@@ -1,3 +1,18 @@
+Introduction (ArduPilot Glossary)|"
+<p>This deck has taken definitions outlined in <a href=""https://ardupilot.org/ardupilot/docs/common-glossary.html"">ArduPilot's Glossary</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(ArduPilot Glossary)"" appended to the end so that if you have any other words in your collection, the ArduPilot definition will still be added when importing it.</li>
+<li>Any updates or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/ArduPilot-Glossary-Flashcards""></a><a href=""https://github.com/darigovresearch/ArduPilot-Glossary-Flashcards"">https://github.com/darigovresearch/ArduPilot-Glossary-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this repository is covered by the following licence:</p>
+<p><a href=""https://creativecommons.org/licenses/by-sa/3.0/""><img src=""https://camo.githubusercontent.com/d26c9b568c4dac3593dc55e78e7544bedd2021bbc05bded209f874a830bcf0e4/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d73612f332e302f38387833312e706e67"" alt=""Creative Commons License"" data-canonical-src=""https://i.creativecommons.org/l/by-sa/3.0/88x31.png"" style=""max-width:100%;""></a></p>
+<p>This work was based on the <em><strong>ArduPilot documentation glossary</strong></em> by the <a href=""https://ardupilot.org/ardupilot/index.html"">ArduPilot Dev Team</a>, licensed under a <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-ShareAlike 3.0 Unported Licence</a>.</p>
+<p>To see this work in full go to <a href=""https://ardupilot.org/ardupilot/docs/common-glossary.html"">https://ardupilot.org/ardupilot/docs/common-glossary.html</a></p>
+"
 2.4 Ghz (ArduPilot Glossary)|"The frequency used by digital (spread spectrum) radio
 communications in our applications, including 2.4Ghz RC, Bluetooth and
 some video transmission equipment. This is a different band than the
